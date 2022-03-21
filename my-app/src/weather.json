@@ -1,0 +1,25 @@
+{
+    "citys": [
+      {
+        "id": 1,
+        "name": "San Francisco",
+        "country": "United States of America",
+        "region": "California",
+        "lat": "37.775",
+        "lon": "-122.418",
+        "timezone_id": "America/Los_Angeles",
+        "localtime": "2019-09-03 05:35"
+      },
+      
+      {
+        "id": 2,
+        "name": "San",
+        "country": "United States of America",
+        "region": "California",
+        "lat": "37.775",
+        "lon": "-122.418",
+        "timezone_id": "America/Los_Angeles",
+        "localtime": "2019-09-03 05:35"
+      }
+    ]
+  }
